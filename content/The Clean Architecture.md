@@ -1,0 +1,5 @@
+
+* **The Core Principle of Screaming architecture:** The architecture of a software system should loudly proclaim its *intent* and *business domain*, not the tools or frameworks used to build it.
+* **Self-Descriptive Structure:** Looking at the top-level packages and classes should make it instantly clear what the application *does* (e.g., a healthcare app, an e-commerce platform) rather than what tech stack it uses.
+* **Frameworks as Details:** Architecture must remain platform- and instrument-agnostic. Frameworks, databases, and web servers are merely delivery mechanisms; they are options to be deferred, not the foundation of the system.
+* **The Benefit:** Unit tests can be run without the web server, database, or framework being active, making testing incredibly fast and the core business logic highly maintainable.
