@@ -26,4 +26,4 @@ The application is structured into concentric layers, moving from the most abstr
     
 - **Data Across Boundaries:** Data passed across boundaries must be in simple data structures (Plain Old Java/JavaScript/C# Objects, DTOs, or simple maps). _Never_ pass raw database rows or Entity objects across a boundary; doing so forces an inner layer to know about an outer layer's data format.
 
-![[Pasted image 20260708134123.png]]
+![[concentric-layers-and-the-dependency-rule.png]]
