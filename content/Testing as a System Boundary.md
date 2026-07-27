@@ -1,0 +1,2 @@
+Tests are not an isolated part of a system. Tests should be a part of a system. If we have a lot of 'breakable' tests, then after a small change in our code lots of tests may fail. That is why tests should be considered during the design part of the whole application.
+The role of API tests is to hide the actual structure of application from testing. We can test the desired logic without the details of a system, that can be changed.
