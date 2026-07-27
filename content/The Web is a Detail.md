@@ -1,0 +1,1 @@
+Web should be considered as an input/output component. It should be separated from our core logic and be considered a detail on an outer circle of our application's architecture.

@@ -1,0 +1,1 @@
+Program should not depend on a database. Data matters, database is just a detail, a means of storing the data. Our core logic should be able to work with any DB or DBMS through interfaces and outer layers. 
