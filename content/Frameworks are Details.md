@@ -1,0 +1,1 @@
+Frameworks are also details. If we use frameworks and marry hem with our business objects, then we become strictly dependent on the framework. In future if we want to changes smth or migrate to another framework it will be very difficult and expensive. We need to bear this in mind before choosing a framework and integrating it with out business level entities.
