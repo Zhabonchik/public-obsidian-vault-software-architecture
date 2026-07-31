@@ -1,7 +1,7 @@
 ---
 tags: [moc, software-architecture, system-design]
 ---
-# 🏛️ Software Architecture Map of Content
+S# 🏛️ Software Architecture Map of Content
 
 > "The goal of software architecture is to minimize the human resources required to build and maintain the required system." — Robert C. Martin
 
